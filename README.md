@@ -1,10 +1,10 @@
 # Netflix-Website-SDE-NoQs
 Welcome to the Netflix Clone repository!
 
-#Description
+# Description
 This project for the "Markup Languages and Information Management Systems" subject is a clone of the popular streaming platform Netflix, developed exclusively using HTML and CSS. The main objective of this project is to recreate the user interface and visual appearance of Netflix, providing users with a similar experience to the original.
 
-#Features
+# Features
 The Netflix clone developed in this project has the following features:
 
 *Similar user interface:* The design and structure of the website resemble the current version of Netflix, allowing users to easily familiarize themselves with the navigation and user experience.
